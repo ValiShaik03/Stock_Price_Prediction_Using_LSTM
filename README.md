@@ -54,14 +54,14 @@ The application allows users to:
 
 ## ⚙️ Features
 
-✅ Real-time stock data collection using Yahoo Finance API
-✅ Data normalization using MinMaxScaler
-✅ Sequence generation for time-series forecasting
-✅ LSTM-based Deep Learning model
-✅ Next-day stock price prediction
-✅ Model evaluation using MSE and MAE
-✅ Interactive Streamlit dashboard
-✅ Actual vs Predicted visualization
+- ✅ Real-time stock data collection using Yahoo Finance API
+- ✅ Data normalization using MinMaxScaler
+- ✅ Sequence generation for time-series forecasting
+- ✅ LSTM-based Deep Learning model
+- ✅ Next-day stock price prediction
+- ✅ Model evaluation using MSE and MAE
+- ✅ Interactive Streamlit dashboard
+- ✅ Actual vs Predicted visualization
 
 ---
 
