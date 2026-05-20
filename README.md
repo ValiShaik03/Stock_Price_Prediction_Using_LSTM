@@ -6,7 +6,7 @@ An end-to-end Deep Learning project that predicts next-day stock closing prices 
 
 ## 🚀 Live Demo
 
-🔗 Live Application: 
+🔗 Live Application: https://stockpriceonlstm.streamlit.app/
 
 > Note: Initial loading may take a few seconds due to Streamlit Community Cloud cold-start behavior.
 
